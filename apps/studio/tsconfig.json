@@ -2,6 +2,7 @@
   "compilerOptions": {
     "paths": {
       "@sanity/locale-de": ["../../locales/de/src"],
+      "@sanity/locale-dk": ["../../locales/dk/src"],
       "@sanity/locale-es": ["../../locales/es/src"],
       "@sanity/locale-fr-fr": ["../../locales/fr-FR/src"],
       "@sanity/locale-it": ["../../locales/it/src"],
