@@ -376,9 +376,9 @@ export default removeUndefinedLocaleResources({
   'form.validation.summary.errors-count_other': '{{count}} ข้อผิดพลาด',
   'form.validation.summary.warnings-count_other': '{{count}} คำเตือน',
 
-  'free-trial.tooltip.days-count_other': undefined, // '{{count}} days left in trial'
+  'free-trial.tooltip.days-count_other': '{{count}} วันที่เหลือในการทดลองใช้',
   /** Tooltip for free trial navbar button, once trial has ended */
-  'free-trial.tooltip.trial-finished': undefined, // 'Upgrade your project'
+  'free-trial.tooltip.trial-finished': 'อัปเกรดโปรเจ็กต์ของคุณ',
 
   /**
    * Label for "contact sales" call to action
