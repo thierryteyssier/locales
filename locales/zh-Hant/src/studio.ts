@@ -372,9 +372,9 @@ export default removeUndefinedLocaleResources({
   'form.validation.summary.errors-count_other': '{{count}} 個錯誤',
   'form.validation.summary.warnings-count_other': '{{count}} 個警告',
 
-  'free-trial.tooltip.days-count_other': undefined, // '{{count}} days left in trial'
+  'free-trial.tooltip.days-count_other': '{{count}} 天試用期剩餘',
   /** Tooltip for free trial navbar button, once trial has ended */
-  'free-trial.tooltip.trial-finished': undefined, // 'Upgrade your project'
+  'free-trial.tooltip.trial-finished': '升級您的項目',
 
   /**
    * Label for "contact sales" call to action
