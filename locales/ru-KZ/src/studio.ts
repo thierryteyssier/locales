@@ -389,9 +389,9 @@ export default removeUndefinedLocaleResources({
   'form.validation.summary.warnings-count_one': '{{count}} предупреждение',
 
   /** Tooltip for free trial navbar button indicating remaining days */
-  'free-trial.tooltip.days-count_one': undefined, // '{{count}} day left in trial'
+  'free-trial.tooltip.days-count_one': '{{count}} день остался в пробной версии',
   /** Tooltip for free trial navbar button, once trial has ended */
-  'free-trial.tooltip.trial-finished': undefined, // 'Upgrade your project'
+  'free-trial.tooltip.trial-finished': 'Обновите ваш проект',
 
   /**
    * Label for "contact sales" call to action
