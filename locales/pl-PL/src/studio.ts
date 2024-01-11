@@ -388,9 +388,9 @@ export default removeUndefinedLocaleResources({
   'form.validation.summary.warnings-count_one': '{{count}} ostrzeżenie',
 
   /** Tooltip for free trial navbar button indicating remaining days */
-  'free-trial.tooltip.days-count_one': undefined, // '{{count}} day left in trial'
+  'free-trial.tooltip.days-count_one': '{{count}} dzień pozostały w okresie próbnym',
   /** Tooltip for free trial navbar button, once trial has ended */
-  'free-trial.tooltip.trial-finished': undefined, // 'Upgrade your project'
+  'free-trial.tooltip.trial-finished': 'Ulepsz swój projekt',
 
   /**
    * Label for "contact sales" call to action
