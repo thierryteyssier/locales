@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.1.1](https://github.com/sanity-io/locales/compare/locale-pl-pl-v1.1.0...locale-pl-pl-v1.1.1) (2024-01-16)
+
+
+### Bug Fixes
+
+* **pl-PL:** align resource keys ([0d673cf](https://github.com/sanity-io/locales/commit/0d673cf6b85c052a5cca9d7ec759a8200fb1b41c))
+* reconcile + prettify ([dbeb153](https://github.com/sanity-io/locales/commit/dbeb153fc3f80207e357a888431d2fd739617821))
+* reconcile + prettify ([#241](https://github.com/sanity-io/locales/issues/241)) ([54f90dc](https://github.com/sanity-io/locales/commit/54f90dca9b094befde329eadb710ac2e9af4c10f))
+
 ## [1.1.0](https://github.com/sanity-io/locales/compare/locale-pl-pl-v1.0.1...locale-pl-pl-v1.1.0) (2024-01-04)
 
 

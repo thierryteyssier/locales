@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.3](https://github.com/sanity-io/locales/compare/locale-th-th-v1.0.2...locale-th-th-v1.0.3) (2024-01-16)
+
+
+### Bug Fixes
+
+* reconcile + prettify ([dbeb153](https://github.com/sanity-io/locales/commit/dbeb153fc3f80207e357a888431d2fd739617821))
+* **th-TH:** align resource keys ([76af5b4](https://github.com/sanity-io/locales/commit/76af5b40d861b5210bb99e4c0028ecf8c360c38a))
+
 ## [1.0.2](https://github.com/sanity-io/locales/compare/locale-th-th-v1.0.1...locale-th-th-v1.0.2) (2024-01-08)
 
 

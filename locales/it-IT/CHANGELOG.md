@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.3](https://github.com/sanity-io/locales/compare/locale-it-it-v1.0.2...locale-it-it-v1.0.3) (2024-01-16)
+
+
+### Bug Fixes
+
+* **it-IT:** align resource keys ([d71b1f8](https://github.com/sanity-io/locales/commit/d71b1f8296719018bed2d1086f0c3b50ed9ad518))
+* reconcile + prettify ([dbeb153](https://github.com/sanity-io/locales/commit/dbeb153fc3f80207e357a888431d2fd739617821))
+
 ## [1.0.2](https://github.com/sanity-io/locales/compare/locale-it-it-v1.0.1...locale-it-it-v1.0.2) (2023-12-22)
 
 

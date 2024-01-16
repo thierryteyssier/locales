@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.0.1](https://github.com/sanity-io/locales/compare/locale-hr-hr-v1.0.0...locale-hr-hr-v1.0.1) (2024-01-16)
+
+
+### Bug Fixes
+
+* **hr-HR:** align resource keys ([77c4ad0](https://github.com/sanity-io/locales/commit/77c4ad007f45c456c80a3270784a0eb2f3d49cd8))
+* **hr-HR:** automated translation updates ([#249](https://github.com/sanity-io/locales/issues/249)) ([6146785](https://github.com/sanity-io/locales/commit/6146785b3c6904230722367239a31d944a846477))
+* reconcile + prettify ([dbeb153](https://github.com/sanity-io/locales/commit/dbeb153fc3f80207e357a888431d2fd739617821))
+
 ## 1.0.0 (2024-01-08)
 
 

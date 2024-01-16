@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.1.1](https://github.com/sanity-io/locales/compare/locale-tr-tr-v1.1.0...locale-tr-tr-v1.1.1) (2024-01-16)
+
+
+### Bug Fixes
+
+* reconcile + prettify ([dbeb153](https://github.com/sanity-io/locales/commit/dbeb153fc3f80207e357a888431d2fd739617821))
+* **tr-TR:** align resource keys ([a78ca95](https://github.com/sanity-io/locales/commit/a78ca9543431e7811c98cec84aaefab71a5be895))
+* **tr-TR:** automated translation updates ([#264](https://github.com/sanity-io/locales/issues/264)) ([0a4332b](https://github.com/sanity-io/locales/commit/0a4332bc1ec1e77b6d0dbf67948912ca19d8c36a))
+
 ## [1.1.0](https://github.com/sanity-io/locales/compare/locale-tr-tr-v1.0.1...locale-tr-tr-v1.1.0) (2024-01-04)
 
 

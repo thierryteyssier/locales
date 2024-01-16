@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.0.2](https://github.com/sanity-io/locales/compare/locale-pt-br-v1.0.1...locale-pt-br-v1.0.2) (2024-01-16)
+
+
+### Bug Fixes
+
+* **pt-BR:** align resource keys ([c416a42](https://github.com/sanity-io/locales/commit/c416a4233ce4bf8975e295c2e3117c894be0fc5e))
+* **pt-BR:** automated translation updates ([#259](https://github.com/sanity-io/locales/issues/259)) ([3ebcefe](https://github.com/sanity-io/locales/commit/3ebcefedf8d9ddd2447dfe314853cf532aa37fc7))
+* reconcile + prettify ([dbeb153](https://github.com/sanity-io/locales/commit/dbeb153fc3f80207e357a888431d2fd739617821))
+
 ## [1.0.1](https://github.com/sanity-io/locales/compare/locale-pt-br-v1.0.0...locale-pt-br-v1.0.1) (2023-12-19)
 
 

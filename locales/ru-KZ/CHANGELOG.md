@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.1](https://github.com/sanity-io/locales/compare/locale-ru-kz-v1.0.0...locale-ru-kz-v1.0.1) (2024-01-16)
+
+
+### Bug Fixes
+
+* reconcile + prettify ([dbeb153](https://github.com/sanity-io/locales/commit/dbeb153fc3f80207e357a888431d2fd739617821))
+* **ru-KZ:** align resource keys ([6f5247d](https://github.com/sanity-io/locales/commit/6f5247d4b9aeab1e3319b827de40d58927e4b690))
+
 ## 1.0.0 (2023-12-22)
 
 
